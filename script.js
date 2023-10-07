@@ -1,12 +1,11 @@
 // typing animation
 var typed = new Typed(".typing", {
-  strings: [" ", "Computer engineer", "Web developer", "Web desiner"],
+  strings: [" ", "Computer engineer", "Web developer", "React JS developer" ,],
   typeSpeed: 100,
   BackSpeed: 60,
   loop: true,
 });
 
-//  asie
 
 const nav = document.querySelector(".nav"),
   navList = nav.querySelectorAll("li"),

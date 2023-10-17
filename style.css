@@ -557,9 +557,10 @@ h3.my-profession {
   color: var(--text-black-900);
   font-weight: 500;
 }
-.portfolio .portfolio-item-inner h1 {
+.portfolio .portfolio-item-inner h1,
+p,
+a {
   color: var(--text-black-900);
-  /* font-weight: 500; */
 }
 .portfolio .portfolio-item {
   flex: 0 0 33.33%;
